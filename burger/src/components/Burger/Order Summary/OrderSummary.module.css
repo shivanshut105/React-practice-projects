@@ -1,0 +1,11 @@
+.OrderSummary{
+    text-align: left;
+}
+
+span{
+    text-transform: capitalize;
+}
+
+h3{
+    text-align: center;
+}
